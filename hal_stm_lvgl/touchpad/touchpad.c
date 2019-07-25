@@ -1,6 +1,6 @@
 /**
  * @file indev.c
- * 
+ *
  */
 
 /*********************
@@ -102,7 +102,7 @@ static bool touchpad_get_xy(int16_t *x, int16_t *y)
 	if(!detected) return false;
 
 
-	stmpe811_TS_GetXY(TS_I2C_ADDRESS, &x_raw, &y_raw);
+	stmpe811_TS_GetXY(TS_I2C_ADDRESS, (uint16_t *)&x_raw, (uint16_t *)&y_raw);
 
 	/* Y value first correction */
 	y_raw -= 360;
