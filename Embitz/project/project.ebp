@@ -500,6 +500,220 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="..\..\lv_examples\lv_apps\tpcal\tpcal.h" />
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test.h" />
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_group\lv_test_group.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_group\lv_test_group.h" />
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_misc\lv_test_task.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_misc\lv_test_task.h" />
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_obj\lv_test_obj.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_obj\lv_test_obj.h" />
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_objx\lv_test_arc\lv_test_arc.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_objx\lv_test_arc\lv_test_arc.h" />
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_objx\lv_test_bar\lv_test_bar.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_objx\lv_test_bar\lv_test_bar.h" />
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_objx\lv_test_btn\lv_test_btn.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_objx\lv_test_btn\lv_test_btn.h" />
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_objx\lv_test_btnm\lv_test_btnm.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_objx\lv_test_btnm\lv_test_btnm.h" />
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_objx\lv_test_canvas\lv_test_canvas.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_objx\lv_test_canvas\lv_test_canvas.h" />
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_objx\lv_test_cb\lv_test_cb.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_objx\lv_test_cb\lv_test_cb.h" />
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_objx\lv_test_chart\lv_test_chart.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_objx\lv_test_chart\lv_test_chart.h" />
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_objx\lv_test_cont\lv_test_cont.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_objx\lv_test_cont\lv_test_cont.h" />
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_objx\lv_test_ddlist\lv_test_ddlist.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_objx\lv_test_ddlist\lv_test_ddlist.h" />
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_objx\lv_test_gauge\lv_test_gauge.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_objx\lv_test_gauge\lv_test_gauge.h" />
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_objx\lv_test_img\img_flower_icon.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_objx\lv_test_img\lv_test_img.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_objx\lv_test_img\lv_test_img.h" />
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_objx\lv_test_imgbtn\imgbtn_img_1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_objx\lv_test_imgbtn\imgbtn_img_2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_objx\lv_test_imgbtn\imgbtn_img_3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_objx\lv_test_imgbtn\imgbtn_img_4.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_objx\lv_test_imgbtn\lv_test_imgbtn.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_objx\lv_test_imgbtn\lv_test_imgbtn.h" />
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_objx\lv_test_kb\lv_test_kb.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_objx\lv_test_kb\lv_test_kb.h" />
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_objx\lv_test_label\lv_test_label.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_objx\lv_test_label\lv_test_label.h" />
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_objx\lv_test_led\lv_test_led.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_objx\lv_test_led\lv_test_led.h" />
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_objx\lv_test_line\lv_test_line.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_objx\lv_test_line\lv_test_line.h" />
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_objx\lv_test_list\lv_test_list.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_objx\lv_test_list\lv_test_list.h" />
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_objx\lv_test_lmeter\lv_test_lmeter.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_objx\lv_test_lmeter\lv_test_lmeter.h" />
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_objx\lv_test_mbox\lv_test_mbox.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_objx\lv_test_mbox\lv_test_mbox.h" />
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_objx\lv_test_page\lv_test_page.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_objx\lv_test_page\lv_test_page.h" />
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_objx\lv_test_preload\lv_test_preload.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_objx\lv_test_preload\lv_test_preload.h" />
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_objx\lv_test_roller\lv_test_roller.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_objx\lv_test_roller\lv_test_roller.h" />
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_objx\lv_test_slider\lv_test_slider.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_objx\lv_test_slider\lv_test_slider.h" />
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_objx\lv_test_sw\lv_test_sw.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_objx\lv_test_sw\lv_test_sw.h" />
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_objx\lv_test_ta\lv_test_ta.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_objx\lv_test_ta\lv_test_ta.h" />
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_objx\lv_test_table\lv_test_table.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_objx\lv_test_table\lv_test_table.h" />
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_objx\lv_test_tabview\lv_test_tabview.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_objx\lv_test_tabview\lv_test_tabview.h" />
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_objx\lv_test_tileview\lv_test_tileview.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_objx\lv_test_tileview\lv_test_tileview.h" />
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_objx\lv_test_win\lv_test_win.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_objx\lv_test_win\lv_test_win.h" />
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_stress\lv_test_stress.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_stress\lv_test_stress.h" />
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_theme\lv_test_theme_1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_theme\lv_test_theme_1.h" />
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_theme\lv_test_theme_2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\lv_examples\lv_tests\lv_test_theme\lv_test_theme_2.h" />
+		<Unit filename="..\..\lv_examples\lv_tutorial\10_keyboard\lv_tutorial_keyboard.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\lv_examples\lv_tutorial\10_keyboard\lv_tutorial_keyboard.h" />
+		<Unit filename="..\..\lv_examples\lv_tutorial\1_hello_world\lv_tutorial_hello_world.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\lv_examples\lv_tutorial\1_hello_world\lv_tutorial_hello_world.h" />
+		<Unit filename="..\..\lv_examples\lv_tutorial\2_objects\lv_tutorial_objects.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\lv_examples\lv_tutorial\2_objects\lv_tutorial_objects.h" />
+		<Unit filename="..\..\lv_examples\lv_tutorial\3_styles\lv_tutorial_styles.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\lv_examples\lv_tutorial\3_styles\lv_tutorial_styles.h" />
+		<Unit filename="..\..\lv_examples\lv_tutorial\4_themes\lv_tutorial_themes.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\lv_examples\lv_tutorial\4_themes\lv_tutorial_themes.h" />
+		<Unit filename="..\..\lv_examples\lv_tutorial\5_antialiasing\apple_icon_alpha.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\lv_examples\lv_tutorial\5_antialiasing\apple_icon_chroma.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\lv_examples\lv_tutorial\5_antialiasing\lv_tutorial_antialiasing.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\lv_examples\lv_tutorial\5_antialiasing\lv_tutorial_antialiasing.h" />
+		<Unit filename="..\..\lv_examples\lv_tutorial\6_images\flower_icon_alpha.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\lv_examples\lv_tutorial\6_images\lv_tutorial_images.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\lv_examples\lv_tutorial\6_images\lv_tutorial_images.h" />
+		<Unit filename="..\..\lv_examples\lv_tutorial\6_images\red_flower.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\lv_examples\lv_tutorial\6_images\red_rose_16.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\lv_examples\lv_tutorial\7_fonts\arial_20.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\lv_examples\lv_tutorial\7_fonts\lv_tutorial_fonts.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\lv_examples\lv_tutorial\7_fonts\lv_tutorial_fonts.h" />
+		<Unit filename="..\..\lv_examples\lv_tutorial\8_animations\lv_tutorial_animations.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\lv_examples\lv_tutorial\8_animations\lv_tutorial_animations.h" />
+		<Unit filename="..\..\lv_examples\lv_tutorial\9_responsive\lv_tutorial_responsive.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\lv_examples\lv_tutorial\9_responsive\lv_tutorial_responsive.h" />
 		<Unit filename="..\..\lvgl\lv_conf_template.h" />
 		<Unit filename="..\..\lvgl\lvgl.h" />
 		<Unit filename="..\..\lvgl\porting\lv_port_disp_template.c">

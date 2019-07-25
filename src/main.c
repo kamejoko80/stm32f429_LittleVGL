@@ -42,9 +42,18 @@ int main(void)
 	tft_init();
 	touchpad_init();
 
-	demo_create();
+	//demo_create();
+	//benchmark_create();
+    //sysmon_create();
+    //terminal_create();
+    //lv_test_object_1();
+    //lv_test_arc_1();
+    //lv_test_bar_1();
+    //lv_test_btn_1();
+    //lv_test_gauge_1();
+    //lv_test_img_1();
+    lv_test_group_1();
 
-//	benchmark_create();
 
 	while (1)
 	{
